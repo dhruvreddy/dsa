@@ -159,21 +159,6 @@ void display() {
 
 int main(int argc, char const *argv[])
 {
-    insertEnd(1);
-    insertEnd(2);
-    insertEnd(3);
-    insertEnd(4);
-    insertEnd(7);
-    insertEnd(2);
-    insertEnd(1);
-    //insertEnd(5);
-    //insertBetween(4,4);
-    //insertEnd(7);
-    //deleteEnd();
-    //delete(4);
-    //find(4);
-    display();
-    check(1,7);
     return 0;
 }
 
