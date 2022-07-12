@@ -64,10 +64,5 @@ void display() {
 
 int main(int argc, char const *argv[])
 {
-    insertEnd(1);
-    insertEnd(2);
-    insertEnd(1);
-    display();
-    //check(1,3);
     return 0;
 }
